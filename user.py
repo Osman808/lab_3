@@ -1,0 +1,6 @@
+userName = input("What is your name? ")
+userAge = int(input("How old are you? "))
+location = input("Where are you live? ")
+print(f"This is {userName}")
+print(f"It is {userAge}")
+print(f"He/She live in {location}")
